@@ -16,3 +16,4 @@ module.exports = {
         isFiltered,
         addFilter
     }};
+si claro
