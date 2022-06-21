@@ -16,4 +16,3 @@ module.exports = {
         isFiltered,
         addFilter
     }};
-
